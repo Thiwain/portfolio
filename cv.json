@@ -2,7 +2,7 @@
   "basics": {
     "name": "Thiwain M.",
     "label": "Aspiring Software Engineer",
-    "image": "/dp.png",
+    "image": "/dp.jpg",
     "email": "thiwainm@gmail.com",
     "phone": "+94 72 544 1159",
     "url": "https://thiwainm.com",
@@ -44,8 +44,7 @@
       "startDate": "2021-11-01",
       "endDate": "2026-01-10",
       "score": "0.0",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "certificates": [],
