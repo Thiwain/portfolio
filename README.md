@@ -37,7 +37,7 @@ This portfolio is open-source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-Feel free to reach out to me via [thiwainm@gmail.com](mailto:thiwainm@gmail.com) or connect with me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thiwain-medagama-968806313/)).
+Feel free to reach out to me via [thiwainm@gmail.com](mailto:thiwainm@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/thiwain-medagama-968806313/).
 
 ---
 
