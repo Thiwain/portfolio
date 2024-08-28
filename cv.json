@@ -87,15 +87,6 @@
       ]
     },
     {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
       "name": "HTML",
       "level": "Intermediate",
       "keywords": [
@@ -181,16 +172,6 @@
       ]
     },
     {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
       "name": "Next.js",
       "level": "Beginner",
       "keywords": [
@@ -209,6 +190,15 @@
         "Frontend",
         "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "ReactNative",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Front",
+        "Backend"
       ]
     },
     {
@@ -231,15 +221,6 @@
     },
     {
       "name": "Laravel",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Front",
-        "Backend"
-      ]
-    },
-    {
-      "name": "ReactNative",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
