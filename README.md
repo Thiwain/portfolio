@@ -1,4 +1,4 @@
-# 🌟 Thiwain's Portfolio
+# 🌟 Portfolio
 
 Welcome to my portfolio! This repository contains a collection of my projects, showcasing my skills, creativity, and experience in web development and design.
 
