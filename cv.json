@@ -218,45 +218,24 @@
   "projects": [
     {
       "name": "Personal Portfolio",
-      "isActive": false,
+      "isActive": true,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
         "Built with React and Tailwind CSS",
         "Includes a blog and contact form"
       ],
-      "url": "https://johndoe.dev",
+      "url": "https://portfolio-inky-three-23.vercel.app/",
       "github": "https://github.com/Thiwain/portfolio"
     },
     {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "Salon Reservation System",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Java app with MySQL, built using Ant, featuring email, security, and caching.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "E-Mail sender, Hashed-passwords, File-caching",
+        "Jasper Reports, Excel Reports"
       ],
-      "url": "https://ecommerce.com"
+      "github": "https://github.com/Thiwain/salon-reservation-system/tree/main"
     }
   ]
 }
