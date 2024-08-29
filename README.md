@@ -6,24 +6,6 @@ Welcome to my portfolio! This repository contains a collection of my projects, s
 
 This portfolio is built to highlight my journey as a developer. Here, you can find a variety of projects that I have worked on, which range from front-end design to full-stack applications. Each project demonstrates my capabilities in different technologies and my approach to solving real-world problems.
 
-## 📂 Projects
-
-Here are some of the key projects featured in this portfolio:
-
-### 1. **Project Name**
-- **Description:** Brief description of the project, what it does, and why it was built.
-- **Tech Stack:** List of technologies used (e.g., HTML, CSS, JavaScript, React, Node.js, etc.).
-- **Demo:** [Live Demo](#) (Add a link to the live version if available)
-- **Code:** [Source Code](#) (Link to the specific project directory or file)
-
-### 2. **Project Name**
-- **Description:** Brief description of the project.
-- **Tech Stack:** List of technologies used.
-- **Demo:** [Live Demo](#)
-- **Code:** [Source Code](#)
-
-*...repeat for other projects...*
-
 ## 🛠️ Tech Stack
 
 - **Front-end:** Astro, Tailwind.
