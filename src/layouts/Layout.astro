@@ -1,4 +1,5 @@
 ---
+import SpeedInsights from '@vercel/speed-insights/astro';
 import { basics } from "@cv";
 import Vengeance from "@/layouts/Vengeance.astro";
 
@@ -33,6 +34,8 @@ const { image, summary, url, theme } = basics;
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={summary} />
     <meta name="twitter:image" content="" />
+
+    <SpeedInsights />
 
     <link
       rel="stylesheet"
