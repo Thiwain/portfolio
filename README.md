@@ -26,10 +26,8 @@ Here are some of the key projects featured in this portfolio:
 
 ## 🛠️ Tech Stack
 
-- **Front-end:** HTML, CSS, JavaScript, React, etc.
-- **Back-end:** Node.js, Express, etc.
-- **Databases:** MongoDB, PostgreSQL, etc.
-- **Tools:** Git, Webpack, etc.
+- **Front-end:** Astro, Tailwind.
+
 
 ## 📄 License
 
