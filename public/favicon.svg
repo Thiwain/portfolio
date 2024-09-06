@@ -1,13 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" width="16" height="16">
-    <style>
-        path { fill: #E34D0A; }
-        @media (prefers-color-scheme: dark) {
-            path { fill: #F7CC16; }
-        }
-    </style>
-    <path d="M5.02697 12L2.59326 9.54931L4.10859 7.97716L7.71323 11.5838L7.32292 12H5.02697Z"/>
-    <path d="M5.02697 4L2.59326 6.45069L4.10859 8.02284L7.71323 4.41616L7.32292 4H5.02697Z"/>
-    <path d="M11.3109 12L13.7446 9.54931L12.2293 7.97716L8.62466 11.5838L9.01497 12H11.3109Z"/>
-    <path d="M11.3109 4L13.7446 6.45069L12.2293 8.02284L8.62466 4.41616L9.01497 4H11.3109Z"/>
+<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M6 0h38a6 6 0 0 1 6 6v38a6 6 0 0 1-6 6H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6Z"
+            fill="#ff7e05" class="fill-12b346"></path>
+        <path
+            d="M31.027 25h6.66v19h-6.66L31 38.035H19.239V44h-6.641V25H19v-6h12l.027 6Zm.019-18.573H43.59V18.97H31.046V6.427Zm-24.351 0h12.544V18.97H6.695V6.427Z"
+            fill="#000000" class="fill-000000"></path>
+    </g>
 </svg>
-
