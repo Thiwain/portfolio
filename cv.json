@@ -169,6 +169,15 @@
         "Front",
         "Backend"
       ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Front",
+        "Backend"
+      ]
     }
   ],
   "languages": [
