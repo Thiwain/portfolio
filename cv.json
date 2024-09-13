@@ -114,11 +114,30 @@
       ]
     },
     {
+      "name": "Expressjs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Front",
+        "Backend"
+      ]
+    },
+    {
       "name": "MySQL",
       "level": "Intermediate",
       "keywords": [
         "Databases",
         "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Mongodb",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "NoSQL",
         "Data Storage",
         "Backend"
       ]
@@ -133,17 +152,6 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
       "name": "React",
       "level": "Intermediate",
       "keywords": [
@@ -155,33 +163,6 @@
     },
     {
       "name": "ReactNative",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Front",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Springboot",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "API",
-        "Backend"
-      ]
-    },
-    {
-      "name": "PHP",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Front",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Laravel",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
