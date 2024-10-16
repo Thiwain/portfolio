@@ -6,7 +6,7 @@
     "email": "thiwainm@gmail.com",
     "phone": "+94 72 544 1159",
     "url": "https://thiwainm.com",
-    "summary": "Motivated undergraduate software engineering student with a strong foundation in programming and a passion for problem-solving. Eager to apply my skills in a dynamic internship role where I can contribute to real-world projects and continue developing as a software engineer",
+    "summary": "A dedicated and passionate software engineering undergraduate with a strong foundation in full-stack development. I excel in problem-solving, decision-making, and love to collaborate, though slightly introverted. My interests lie in programming, research, and continuous learning. With a practical approach to challenges, I enjoy working independently and with teams to develop innovative solutions. As a hard worker, I’m eager to explore new technologies and contribute meaningfully to dynamic projects",
     "theme": "default",
     "location": {
       "address": "317/E-8 Batagama South Kandana",
@@ -37,9 +37,9 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Java Institute For Advanced Technology",
+      "institution": "Bachelor of Science with Honors in Software Engineering",
       "url": "https://stateuniversity.edu",
-      "area": "BSc(Hons) Software Engineering",
+      "area": "Birmingham City University - Java Institute for Advanced Technology, Thunmulla, Colombo",
       "studyType": "Bachelor",
       "startDate": "2021-11-01",
       "endDate": "2026-01-10",
@@ -220,12 +220,14 @@
     {
       "name": "Salon Reservation System",
       "isActive": false,
-      "description": "Java app with MySQL, built using Ant, featuring email, security, and caching.",
+      "description": "A Java application built with MySQL and Ant, designed to streamline salon appointments.",
       "highlights": [
-        "E-Mail sender, Hashed-passwords, File-caching",
-        "Jasper Reports, Excel Reports"
+        "Email sender integration",
+        "Hashed passwords for enhanced security",
+        "File caching for faster performance",
+        "Jasper and Excel reporting tools"
       ],
-      "github": "https://github.com/Thiwain/salon-reservation-system/tree/main"
+      "github": "https://github.com/Thiwain/SaloonNemo-Reservation-System"
     }
   ]
 }
