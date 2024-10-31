@@ -228,6 +228,17 @@
         "Jasper and Excel reporting tools"
       ],
       "github": "https://github.com/Thiwain/SaloonNemo-Reservation-System"
+    },
+    {
+      "name": "Real-Time Chat Room",
+      "isActive": false,
+      "description": "A MERN-based real-time chat application with WebSocket integration, designed for seamless multi-user communication in virtual rooms.",
+      "highlights": [
+        "Real-Time Messaging",
+        "JWT-Based Authentication",
+        "Cross-Platform Notifications:"
+      ],
+      "github": "https://github.com/Thiwain/SaloonNemo-Reservation-System"
     }
   ]
 }
