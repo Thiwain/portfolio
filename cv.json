@@ -207,6 +207,7 @@
   ],
   "projects": [
     {
+      "url": "",
       "name": "Salon Reservation System",
       "isActive": false,
       "description": "A Java application built with MySQL and Ant, designed to streamline salon appointments.",
@@ -219,6 +220,7 @@
       "github": "https://github.com/Thiwain/SaloonNemo-Reservation-System"
     },
     {
+      "url": "",
       "name": "Real-Time Chat Room",
       "isActive": false,
       "description": "A MERN-based real-time chat application with WebSocket integration.",
