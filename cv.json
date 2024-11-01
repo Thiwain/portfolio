@@ -207,17 +207,6 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": true,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://thiwain.com",
-      "github": "https://github.com/Thiwain/portfolio"
-    },
-    {
       "name": "Salon Reservation System",
       "isActive": false,
       "description": "A Java application built with MySQL and Ant, designed to streamline salon appointments.",
@@ -232,7 +221,7 @@
     {
       "name": "Real-Time Chat Room",
       "isActive": false,
-      "description": "A MERN-based real-time chat application with WebSocket integration, designed for seamless multi-user communication in virtual rooms.",
+      "description": "A MERN-based real-time chat application with WebSocket integration.",
       "highlights": [
         "Real-Time Messaging",
         "JWT-Based Authentication",
