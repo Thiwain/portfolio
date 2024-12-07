@@ -178,6 +178,33 @@
         "Front",
         "Backend"
       ]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "API",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Springboot",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "API",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "API",
+        "Backend"
+      ]
     }
   ],
   "languages": [
