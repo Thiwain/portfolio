@@ -257,6 +257,18 @@
         "Cross-Platform Notifications:"
       ],
       "github": "https://github.com/Thiwain/ChatRoom"
+    },
+    {
+      "url": "",
+      "name": "Image Gallery",
+      "isActive": false,
+      "description": "Searchable image gallery with Nextjs, TailwindCSS, and Unsplash API.",
+      "highlights": [
+        "Unsplash API Integration",
+        "Searchable Images",
+        "Responsive Design"
+      ],
+      "github": "https://github.com/Thiwain/SaloonNemo-Reservation-System"
     }
   ]
 }
