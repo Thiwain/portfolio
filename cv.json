@@ -259,16 +259,50 @@
       "github": "https://github.com/Thiwain/ChatRoom"
     },
     {
-      "url": "",
-      "name": "Image Gallery",
+      "name": "Personal Portfolio",
       "isActive": false,
-      "description": "Searchable image gallery with Nextjs, TailwindCSS, and Unsplash API.",
+      "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
-        "Unsplash API Integration",
-        "Searchable Images",
-        "Responsive Design"
+        "Built with React and Tailwind CSS",
+        "Includes a blog and contact form"
       ],
-      "github": "https://github.com/Thiwain/nn-img-gallery"
+      "url": "https://www.thiwain.com/",
+      "github": "https://github.com/Thiwain/portfolio"
+    },
+    {
+      "url": "",
+      "name": "Tea-Pot",
+      "isActive": false,
+      "description": "PHP e-commerce site with authentication, payment gateway, and product management.",
+      "highlights": [
+        "E-commerce platform with user authentication, password recovery, PayHere gateway.n.",
+        "Item listing, search, cart, and seamless checkout process included.",
+        "Invoice generation, management dashboard, and one-time password authentication"
+      ],
+      "github": "https://github.com/Thiwain/tea-pot-PHP"
+    },
+    {
+      "url": "",
+      "name": "Hotel Reservation Management System",
+      "isActive": false,
+      "description": "A hotel reservation system with real-time booking, billing, and admin tools for occupancy and income tracking.",
+      "highlights": [
+        "Real-time booking with availability-based reservations and payment gateway.",
+        "Billing features for clients and KPI dashboard for admin management",
+        "Tracks occupancy and income through an intuitive admin interface"
+      ],
+      "github": "https://github.com/Thiwain/Hotel-Reservation-Management-System"
+    },
+    {
+      "url": "",
+      "name": "Crypto Currency Dashboard",
+      "isActive": false,
+      "description": "Coin Gecko API, React, Growth Charts",
+      "highlights": [
+        "React FrontEnd, Tailwind CSS",
+        "Data charts"
+      ],
+      "github": "https://github.com/Thiwain/crypto-dashboard"
     }
   ]
 }
