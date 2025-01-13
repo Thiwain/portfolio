@@ -294,9 +294,9 @@
       "github": "https://github.com/Thiwain/Hotel-Reservation-Management-System"
     },
     {
-      "url": "",
+      "url": "https://crypto-dashboard-mu-three.vercel.app/",
       "name": "Crypto Currency Dashboard",
-      "isActive": false,
+      "isActive": true,
       "description": "Coin Gecko API, React, Growth Charts",
       "highlights": [
         "React FrontEnd, Tailwind CSS",
