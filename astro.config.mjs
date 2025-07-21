@@ -4,9 +4,9 @@ import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: "https://thwain.com",
-  output: "static", // Keep this
+  output: "static", // Important
   adapter: vercel({
-    mode: "static", // ✅ IMPORTANT: Tell Astro you're using static build with this adapter
+    mode: "static", // ✅ THIS MUST BE HERE
     webAnalytics: {
       enabled: true,
     },

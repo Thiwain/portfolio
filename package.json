@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@astrojs/tailwind": "^6.0.2",
-    "@astrojs/vercel": "^8.2.2",
+    "@astrojs/vercel": "^8.0.4",
     "astro": "^5.12.0",
     "astro-font-picker": "^0.2.2",
     "prettier": "^3.3.3",
