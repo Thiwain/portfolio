@@ -1,6 +1,6 @@
 ---
 import Section from "../Section.astro";
-// import { work as workData } from "@cv"; // Renamed import to avoid conflict
+import { work as workData } from "@cv"; // Renamed import to avoid conflict
 
 
 import HTML from "@/icons/html.astro";
@@ -53,25 +53,25 @@ interface SummaryItem {
   detail: string;
 }
 
-interface WorkItem {
-  name: string;
-  startDate: string;
-  endDate?: string;
-  position: string;
-  summary?: SummaryItem[];
-  responsibilities?: Responsibility[];
-  achievements?: Achievement[];
-  url?: string;
-  skills?: Skill[];
-  location?: string;
-  location_type?: string;
-}
+// interface WorkItem {
+//   name: string;
+//   startDate: string;
+//   endDate?: string;
+//   position: string;
+//   summary?: SummaryItem;
+//   responsibilities?: Responsibility[];
+//   achievements?: Achievement[];
+//   url?: string;
+//   skills?: Skill[];
+//   location?: string;
+//   location_type?: string;
+// }
 
-const work: WorkItem[] = []; // Initialize with actual data or fetch it
+// const work: WorkItem[] = []; // Initialize with actual data or fetch it
 ---
 <Section className={Astro.props.className} title="Experience">
   <ul class="flex flex-col">
-    {work.map(({
+    {workData.map(({
       name,
       startDate,
       endDate,

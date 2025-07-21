@@ -33,7 +33,102 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Nivartana",
+      "position": "Web Developer",
+      "location_type": "Remote",
+      "location": "Germany",
+      "url": "https://puranayurveda.com/",
+      "startDate": "2025-03-15",
+      "endDate": "2025-07-01",
+      "summary": "Developing and maintaining web applications using JavaScript, HTML, PHP and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "highlights": [
+        "Developed Websites",
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        {
+          "task": "Collaborated with intern developers to design and implement web applications using modern frameworks."
+        },
+        {
+          "task": "Assisted in debugging and optimizing front-end code to ensure smooth user experiences."
+        },
+        {
+          "task": "Participated in code reviews and contributed to improving coding standards within the team."
+        }
+      ],
+      "achievements": [
+        {
+          "description": "Developing and maintaining web applications using JavaScript, HTML, PHP and CSS. Collaborating with the team to implement new features and fix bugs."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Astro"
+        },
+        {
+          "name": "PHP"
+        },
+        {
+          "name": "React"
+        },
+        {
+          "name": "Tailwind"
+        },
+        {
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Software Developer",
+      "location_type": "Remote",
+      "location": "Sri Lanka",
+      "url": "https://www.thiwain.com/",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "summary": [
+        {
+          "detail": "Built a court schedule report generating system for a practicing lawyer to automate court hearing report generation and document tracking."
+        }
+      ],
+      "highlights": [
+        "Delivered a fully functional report generation system using Java and MySQL"
+      ],
+      "responsibilities": [
+        {
+          "task": "Designed and implemented a user-friendly interface to manage and filter court schedules."
+        },
+        {
+          "task": "Integrated report exporting features including PDF generation."
+        },
+        {
+          "task": "Communicated regularly with the client to gather requirements and deliver iterations."
+        }
+      ],
+      "achievements": [
+        {
+          "description": "Successfully automated a lawyer's daily court schedule reporting process, saving several hours of manual work."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Java"
+        },
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "Swing"
+        },
+        {
+          "name": "Jasper Reports"
+        }
+      ]
+    }
+  ],
   "volunteer": [],
   "education": [
     {
@@ -280,18 +375,6 @@
         "Invoice generation, management dashboard, and one-time password authentication"
       ],
       "github": "https://github.com/Thiwain/tea-pot-PHP"
-    },
-    {
-      "url": "",
-      "name": "Hotel Reservation Management System",
-      "isActive": false,
-      "description": "A hotel reservation system with real-time booking, billing, and admin tools for occupancy and income tracking.",
-      "highlights": [
-        "Real-time booking with availability-based reservations and payment gateway.",
-        "Billing features for clients and KPI dashboard for admin management",
-        "Tracks occupancy and income through an intuitive admin interface"
-      ],
-      "github": "https://github.com/Thiwain/Hotel-Reservation-Management-System"
     },
     {
       "url": "https://crypto-dashboard-mu-three.vercel.app/",
