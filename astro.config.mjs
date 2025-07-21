@@ -1,15 +1,12 @@
 import { defineConfig } from "astro/config";
-import vercel from "@astrojs/vercel/static";
+import vercel from "@astrojs/vercel";
 import tailwind from "@astrojs/tailwind";
-import vercel from '@astrojs/vercel/static';
-import vercel from '@astrojs/vercel';
 
-
-// https://astro.build/config
 export default defineConfig({
   site: "https://thwain.com",
-  output: "static",
+  output: "static", // Keep this
   adapter: vercel({
+    mode: "static", // ✅ IMPORTANT: Tell Astro you're using static build with this adapter
     webAnalytics: {
       enabled: true,
     },
